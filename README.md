@@ -2,33 +2,32 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: CodeGems
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: KS Samnaya - Vidya Academy of Science and Technology
+- Member 2: Lakshmi Vijayakumar - Vidya Academy of Science and Technology
+- Member 3: Pavithra AM - Vidya Academy of Science and Technology
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://colab.research.google.com/drive/1c78DjP3eGahLSxFOd7T_5qttVtf3gX4u?usp=sharing
 
 ### Project Description
-[2-3 lines about what your project does]
+Our project recomands movie based on favourite genre and movie reviews.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Movie Recomandation System
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Discovering new smarter faster ways to find your fav movie
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python
+- pandas ,numpy
+- Google collab ,chatgpt
 
 For Hardware:
 - [List main components]
