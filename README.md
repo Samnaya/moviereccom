@@ -83,7 +83,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-https://github.com/user-attachments/assets/460a269e-c1ea-4d29-a67f-034a07a4513b
+https://drive.google.com/file/d/1mUKDYe_xLOcw4L_uHvAaJnKajreIZ1h3/view?usp=drive_link
 
 
 # Additional Demos
