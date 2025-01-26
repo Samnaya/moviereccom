@@ -52,8 +52,9 @@ For Software:
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![image](https://github.com/user-attachments/assets/ff3a5784-5c71-42df-bf68-e8c06df74b9c)
+
+*output 
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
