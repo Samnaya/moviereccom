@@ -74,13 +74,17 @@ For Hardware:
 ![Build](Add photos of build process here)
 *Explain the build steps*
 
+
+
+
+
 ![Final](Add photo of final product here)
 *Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://github.com/user-attachments/assets/460a269e-c1ea-4d29-a67f-034a07a4513b
+
 
 # Additional Demos
 [Add any extra demo materials/links]
