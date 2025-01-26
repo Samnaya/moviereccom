@@ -45,12 +45,7 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots
 
 ![image](https://github.com/user-attachments/assets/ff3a5784-5c71-42df-bf68-e8c06df74b9c)
 
@@ -91,9 +86,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Name 1]: KS Samnaya
+- [Name 2]: Lakshmi Vijayakumar
+- [Name 3]: Pavithra AM
 
 ---
 Made with ❤️ at TinkerHub
